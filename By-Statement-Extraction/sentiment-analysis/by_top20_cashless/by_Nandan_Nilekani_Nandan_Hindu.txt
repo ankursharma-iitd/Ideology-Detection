@@ -1,0 +1,6 @@
+;;0.4215;;mr. nandannilekaninandan said that the uidai had provided guidelines to respective ministries for implementation of the programme.
+;;-0.6369;;infosys chairman and aadhaar architect nandan nandannilekaninandan has said that fears about leak of data from aadhaar base are misplaced.
+;;0.0;;delivering the keynote at a conference on aadhaar-enabled services organised jointly by the uidai and the national association of software and services companies (nasscom), mr. nandannilekaninandan said about 9.
+;;0.743;;mr. nandannilekaninandan said the key to the success of the programme lay in developing an appropriate application ecosystem that leads to benefits for people.
+;;0.3182;;referring to aadhaar's potential, mr. nandannilekaninandan said its ability to act as a storehouse of know-your-customer needs were a key requirement for financial inclusion programmes.
+;;0.3818;;the development of standards for aadhaar would ensure interoperability and compatibility among various devices used in the ecosystem, said mr. nilekani.

@@ -1,0 +1,21 @@
+Entity_name;aggr_sent;total_pos;total_neg;polarity
+Akhilesh Yadav;0;0;0;0
+Aamir Khan;-0.702;0.064;0.269;4.203125
+Arvind Kejriwal;0;0;0;0
+Ratan Tata;0.04300000000000004;0.172;0.103;1.6699029126213591
+Urjit Patel;0;0;0;0
+Sachin Pilot;-0.8885;0.0;0.313;0.313
+Vijay Rupani;0;0;0;0
+Virat Kohli;0;0;0;0
+Mamata Banerjee;0;0;0;0
+Rahul Gandhi;2.3393000000000006;0.9610000000000001;0.26;3.6961538461538463
+Uddhav Thackeray;0;0;0;0
+Hardik Patel;0.6597;0.241;0.0;0.241
+Narendra Modi;2.073;1.7840000000000005;1.1920000000000002;1.4966442953020136
+Arun Jaitley;2.8329000000000004;1.9030000000000002;1.365;1.3941391941391943
+Yogi Adityanath;0;0;0;0
+Kaushik Basu;0;0;0;0
+Lalu Prasad;-0.7506;0.0;0.444;0.444
+Ahmed Patel;0.6597;0.241;0.0;0.241
+Amit Shah;0.6721999999999999;0.524;0.315;1.6634920634920636
+Bibek Debroy;0.7351;0.24;0.0;0.24

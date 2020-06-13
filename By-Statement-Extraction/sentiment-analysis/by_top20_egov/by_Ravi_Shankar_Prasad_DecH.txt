@@ -1,0 +1,4 @@
+;;0.5106;;new delhi, dec 25, 2014, dhns: 1:58 isttelecom minister ravishankarprasad on thursday announced that the limit of postal life insurance has been raised from rs 20 lakh to rs 50 lakh besides launching one-month rental free mtnl broadband and landline combo plans on new bookings.
+;;0.0;;in a written reply to the lok sabha today, telecom minister ravishankarprasad said google india has approached the department of electronics and information technology to conduct pilot test of project loon in india.
+;;0.0258;;the matter was discussed with all stakeholders and it was concluded that frequency band 700-900 mhz to be used in the pilot test of project loon is being used by cellular operators and if the pilot is carried out it will lead to interference with cellular transmissions, prasad said.
+;;0.0;;revised proposal form google india with change of frequency band is yet to be received, prasad said.

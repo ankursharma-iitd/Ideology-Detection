@@ -1,0 +1,21 @@
+Entity_name;aggr_sent;total_pos;total_neg;polarity
+Devendra Fadnavis;0;0;0;0
+Uddhav Thackeray;0;0;0;0
+Kaushik Basu;0;0;0;0
+Prashant Bhushan;0;0;0;0
+Chidambaram;0;0;0;0
+Arun Jaitley;0.7848999999999997;1.062;0.7519999999999999;1.4122340425531918
+Ramdev;0.11309999999999998;0.148;0.184;0.8043478260869565
+Urjit Patel;-0.296;0.0;0.121;0.121
+Mamata Banerjee;0;0;0;0
+Nitish Kumar;-0.23249999999999998;0.096;0.173;1.8020833333333333
+Hardik Patel;0.6597;0.241;0.0;0.241
+Narendra Modi;0.4449000000000005;3.384;3.0799999999999996;1.0987012987012987
+Ahmed Patel;0.6597;0.241;0.0;0.241
+Venkaiah Naidu;0;0;0;0
+Chandrababu Naidu;0;0;0;0
+Subramanian Swamy;0;0;0;0
+Rahul Gandhi;0.8017000000000001;0.229;0.057;4.017543859649122
+Arvind Kejriwal;0;0;0;0
+Yogi Adityanath;0;0;0;0
+Amit Shah;0.971;0.359;0.126;2.849206349206349

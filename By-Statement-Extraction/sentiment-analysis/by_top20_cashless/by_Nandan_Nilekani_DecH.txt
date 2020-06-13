@@ -1,0 +1,5 @@
+;;0.0;;speaking at an event organised by unitus capital, an investment bank, on monday, nandannilekani said 2009 was the year of transition.
+;;0.0;;it began with messaging, and now has added voice, said nandannilekani , explaining the same movement happening in the finance sector.
+;;0.1217;;1 bn aadhaar cards soontalking about aadhaar, nandannilekani said 910 million people have the cards and this number will reach one billion by march 2016.
+;;0.5423;;delivering the keynote on hour glass architectures for iot era at the inauguration of the 28th international conference on vlsi design and the 14th international conference on embedded systems here, nandannilekani said, this is an opportunity to leapfrog on developmental solutions.
+;;0.34;;nilekani said that with the wide use of smartphones and tablets, which can do fingerprint authentication, and fitted with iris cameras, can bring security in transaction and enhance delivery of services.

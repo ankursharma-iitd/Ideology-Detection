@@ -1,0 +1,21 @@
+Entity_name;aggr_sent;total_pos;total_neg;polarity
+Mohan Bhagwat;0;0;0;0
+Rahul Gandhi;0.9506999999999999;0.203;0.094;2.1595744680851063
+Vasundhara Raje;0;0;0;0
+Devendra Fadnavis;-0.33840000000000003;0.31599999999999995;0.637;2.015822784810127
+Kavita Hushare;0;0;0;0
+Gurmeet Singh;0;0;0;0
+Nirbhay Singh;0;0;0;0
+Narendra Modi;0.8020999999999998;0.347;0.135;2.57037037037037
+Amarinder;0;0;0;0
+Sachin Pilot;-0.8885;0.0;0.313;0.313
+Fatima;0;0;0;0
+Urjit Patel;0;0;0;0
+Amit Shah;0;0;0;0
+Uddhav Thackeray;0;0;0;0
+Baldish Kaur;0;0;0;0
+Sharad Pawar;0;0;0;0
+Arun Jaitley;0.9153000000000001;0.42300000000000004;0.173;2.4450867052023124
+Venkaiah Naidu;0;0;0;0
+Yogi Adityanath;0;0;0;0
+Mohammad Shamshad Hazi;0;0;0;0

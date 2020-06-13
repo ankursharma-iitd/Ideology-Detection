@@ -1,0 +1,4 @@
+;;-0.3412;;it is not a good thing for the country, said naidu, who is also the ex-officio chairman of the rajya sabha.
+;;0.7906;;the constant endeavour, naidu said, is to make india the global economic leader by adopting a holistic approach towards inclusive economic growth, highlighting that progress must be made to achieve double-digit economic growth at the earliest.
+;;-0.1548;;observing that the world economy is slowing, naidu said: even our powerful neighbour (in an apparent reference to china) has gone a little negative.
+;;0.5809;;pointing to the lack of proper convention centres in a country as large as india, naidu said world-class infrastructure in terms of international convention facilities is very essential to promote trade and commerce and a growing economy like ours needs high quality venues to host events.
