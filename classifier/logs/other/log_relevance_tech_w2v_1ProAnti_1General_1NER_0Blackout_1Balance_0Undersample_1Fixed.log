@@ -1,0 +1,5 @@
+03/25/2020 09:12:14 PM,355 gensim.models.utils_any2vec INFO loading projection weights from /Users/navreetkaur/MTP/finetune-word2vec/w2v-models/GoogleNews-vectors-negative300.bin
+03/25/2020 09:12:51 PM,625 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+03/25/2020 09:12:51 PM,641 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+03/25/2020 09:12:51 PM,641 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+03/25/2020 09:12:51 PM,641 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.

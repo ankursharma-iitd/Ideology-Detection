@@ -1,0 +1,371 @@
+  0% |                                                         | ETA:  --:--:--
+Epoch 0
+Loss =  tensor([26.1460])
+Loss =  tensor([26.0314])
+Loss =  tensor([22.3017])
+Loss =  tensor([20.2049])
+Loss =  tensor([20.2245])
+Loss =  tensor([19.2982])
+Loss =  tensor([19.1693])
+Loss =  tensor([19.1461])
+Loss =  tensor([19.1373])
+Loss =  tensor([19.1332])
+100% |##########################################################| Time: 0:05:14
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 1
+Loss =  tensor([19.1547])
+Loss =  tensor([19.1441])
+Loss =  tensor([19.1307])
+Loss =  tensor([19.1199])
+Loss =  tensor([19.1067])
+Loss =  tensor([19.0866])
+Loss =  tensor([19.0454])
+Loss =  tensor([20.0689])
+Loss =  tensor([19.1264])
+Loss =  tensor([19.2457])
+100% |##########################################################| Time: 0:04:27
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 2
+Loss =  tensor([19.1007])
+Loss =  tensor([19.0212])
+Loss =  tensor([20.0785])
+Loss =  tensor([19.1762])
+Loss =  tensor([19.1304])
+Loss =  tensor([19.1031])
+Loss =  tensor([19.0824])
+Loss =  tensor([19.0302])
+Loss =  tensor([18.9937])
+Loss =  tensor([18.9786])
+100% |##########################################################| Time: 0:04:46
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 3
+Loss =  tensor([18.9587])
+Loss =  tensor([20.4362])
+Loss =  tensor([18.7010])
+Loss =  tensor([20.5227])
+Loss =  tensor([19.3163])
+Loss =  tensor([18.9601])
+Loss =  tensor([18.9183])
+Loss =  tensor([18.7680])
+Loss =  tensor([18.7133])
+Loss =  tensor([18.5554])
+100% |##########################################################| Time: 0:08:53
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:01
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 4
+Loss =  tensor([18.7293])
+Loss =  tensor([18.6386])
+Loss =  tensor([18.3872])
+Loss =  tensor([18.5516])
+Loss =  tensor([18.2938])
+Loss =  tensor([18.3900])
+Loss =  tensor([18.3179])
+Loss =  tensor([21.3195])
+Loss =  tensor([18.7927])
+Loss =  tensor([26.6143])
+100% |##########################################################| Time: 0:05:35
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 5
+Loss =  tensor([18.6404])
+Loss =  tensor([18.2407])
+Loss =  tensor([158.9363])
+Loss =  tensor([112.3164])
+Loss =  tensor([62.9479])
+Loss =  tensor([20.0092])
+Loss =  tensor([39.0523])
+Loss =  tensor([24.8722])
+Loss =  tensor([19.9674])
+Loss =  tensor([19.2918])
+100% |##########################################################| Time: 0:04:30
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 6
+Loss =  tensor([18.6668])
+Loss =  tensor([18.2804])
+Loss =  tensor([18.5867])
+Loss =  tensor([18.3362])
+Loss =  tensor([21.5596])
+Loss =  tensor([20.4456])
+Loss =  tensor([37.4826])
+Loss =  tensor([26.7771])
+Loss =  tensor([54.1361])
+Loss =  tensor([80.3478])
+100% |##########################################################| Time: 0:04:44
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 7
+Loss =  tensor([21.1689])
+Loss =  tensor([20.1480])
+Loss =  tensor([19.5939])
+Loss =  tensor([19.0385])
+Loss =  tensor([19.0145])
+Loss =  tensor([19.0041])
+Loss =  tensor([18.9880])
+Loss =  tensor([18.9620])
+Loss =  tensor([18.9257])
+Loss =  tensor([18.8947])
+100% |##########################################################| Time: 0:04:47
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:01
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 8
+Loss =  tensor([19.0097])
+Loss =  tensor([18.9075])
+Loss =  tensor([18.8436])
+Loss =  tensor([18.7925])
+Loss =  tensor([18.7253])
+Loss =  tensor([18.6150])
+Loss =  tensor([18.5572])
+Loss =  tensor([18.4872])
+Loss =  tensor([18.4083])
+Loss =  tensor([18.3248])
+100% |##########################################################| Time: 0:04:25
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 9
+Loss =  tensor([18.4795])
+Loss =  tensor([62.5742])
+Loss =  tensor([69.8743])
+Loss =  tensor([41.9972])
+Loss =  tensor([186.6805])
+Loss =  tensor([67.7924])
+Loss =  tensor([19.3902])
+Loss =  tensor([19.2690])
+Loss =  tensor([19.1748])
+Loss =  tensor([19.1667])
+100% |##########################################################| Time: 0:09:31
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 10
+Loss =  tensor([20.8666])
+Loss =  tensor([19.8208])
+Loss =  tensor([19.4970])
+Loss =  tensor([19.3281])
+Loss =  tensor([19.2548])
+Loss =  tensor([19.2127])
+Loss =  tensor([19.1960])
+Loss =  tensor([19.1868])
+Loss =  tensor([19.1727])
+Loss =  tensor([19.1445])
+100% |##########################################################| Time: 0:04:32
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 11
+Loss =  tensor([19.1091])
+Loss =  tensor([18.8718])
+Loss =  tensor([18.7930])
+Loss =  tensor([18.6766])
+Loss =  tensor([18.4692])
+Loss =  tensor([18.9897])
+Loss =  tensor([18.1926])
+Loss =  tensor([21.6355])
+Loss =  tensor([19.9681])
+Loss =  tensor([34.6869])
+100% |##########################################################| Time: 0:04:32
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.8(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 12
+Loss =  tensor([20.2860])
+Loss =  tensor([30.5195])
+Loss =  tensor([24.7173])
+Loss =  tensor([104.1871])
+Loss =  tensor([74.2023])
+Loss =  tensor([1181.7950])
+Loss =  tensor([1016.5298])
+Loss =  tensor([738.5647])
+Loss =  tensor([44145.4141])
+Loss =  tensor([26845.8047])
+100% |##########################################################| Time: 0:04:54
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:01
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.33(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 13
+Loss =  tensor([4125.2910])
+Loss =  tensor([5876.9541])
+Loss =  tensor([4084.9810])
+Loss =  tensor([1324.1954])
+Loss =  tensor([4277.0918])
+Loss =  tensor([2742.5610])
+Loss =  tensor([4163.3901])
+Loss =  tensor([2072.7976])
+Loss =  tensor([873.6093])
+Loss =  tensor([1034.8918])
+100% |##########################################################| Time: 0:04:59
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:01
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.77(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 14
+Loss =  tensor([920.8836])
+Loss =  tensor([548.4246])
+Loss =  tensor([475.0182])
+Loss =  tensor([396.1099])
+Loss =  tensor([391.2711])
+Loss =  tensor([246.3860])
+Loss =  tensor([265.1481])
+Loss =  tensor([184.7332])
+Loss =  tensor([146.7482])
+Loss =  tensor([215.2548])
+100% |##########################################################| Time: 0:04:17
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 15
+Loss =  tensor([229.9569])
+Loss =  tensor([219.5748])
+Loss =  tensor([191.4147])
+Loss =  tensor([170.2763])
+Loss =  tensor([157.1256])
+Loss =  tensor([93.1279])
+Loss =  tensor([253.8358])
+Loss =  tensor([109.0791])
+Loss =  tensor([1377.4822])
+Loss =  tensor([1189.9319])
+100% |##########################################################| Time: 0:04:35
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.78(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 16
+Loss =  tensor([479.8748])
+Loss =  tensor([3308.8340])
+Loss =  tensor([1630.9600])
+Loss =  tensor([376.6447])
+Loss =  tensor([272.4876])
+Loss =  tensor([162.3461])
+Loss =  tensor([1143.0585])
+Loss =  tensor([650.5034])
+Loss =  tensor([1223.7738])
+Loss =  tensor([951.8328])
+100% |##########################################################| Time: 0:04:21
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.85(best:0.85)
+Epoch 17
+Loss =  tensor([203.6871])
+Loss =  tensor([8397.0918])
+Loss =  tensor([6944.5459])
+Loss =  tensor([1207.5884])
+Loss =  tensor([2719.7498])
+Loss =  tensor([1812.6724])
+Loss =  tensor([38594.2656])
+Loss =  tensor([29629.4238])
+Loss =  tensor([8694.8535])
+Loss =  tensor([35252.7109])
+100% |##########################################################| Time: 0:04:27
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:00
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.82(best:0.82)
+Validation Root accuracy:0.86(best:0.86)
+Epoch 18
+Loss =  tensor([1372.2308])
+Loss =  tensor([13485.3975])
+Loss =  tensor([6815.6665])
+Loss =  tensor([8514.1309])
+Loss =  tensor([6326.3853])
+Loss =  tensor([6545.3457])
+Loss =  tensor([4563.9561])
+Loss =  tensor([3821.1799])
+Loss =  tensor([4044.2815])
+Loss =  tensor([2776.2385])
+100% |##########################################################| Time: 0:04:45
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/linear_model/logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+100% |##########################################################| Time: 0:00:01
+  0% |                                                         | ETA:  --:--:--
+
+Validation All-nodes accuracy:0.83(best:0.83)
+Validation Root accuracy:0.88(best:0.88)
+Epoch 19
+Loss =  tensor([2625.3359])
+Loss =  tensor([2455.9529])
+Loss =  tensor([4061.7703])
+Loss =  tensor([3321.4114])
+Loss =  tensor([2215.2795])
+Loss =  tensor([2663.2253])
+Loss =  tensor([2045.4261])
+Loss =  tensor([1492.6692])

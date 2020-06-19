@@ -1,0 +1,6 @@
+02/17/2020 03:36:09 PM,330 root INFO Using an existing server http://localhost:9000
+02/17/2020 03:36:10 PM,345 root INFO The server is available.
+02/17/2020 09:43:26 PM,847 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+02/17/2020 09:43:26 PM,850 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+02/17/2020 09:43:26 PM,850 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+02/17/2020 09:43:26 PM,851 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.

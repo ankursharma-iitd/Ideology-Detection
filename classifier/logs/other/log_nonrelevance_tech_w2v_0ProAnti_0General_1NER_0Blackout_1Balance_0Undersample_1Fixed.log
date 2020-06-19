@@ -1,0 +1,5 @@
+05/24/2020 06:01:32 PM,332 gensim.utils INFO loading Word2VecKeyedVectors object from /Users/navreetkaur/MTP/finetune-word2vec/w2v-models/tech-word2vec-ner
+05/24/2020 06:01:32 PM,756 gensim.utils INFO setting ignored attribute vectors_norm to None
+05/24/2020 06:01:32 PM,764 gensim.utils INFO loaded /Users/navreetkaur/MTP/finetune-word2vec/w2v-models/tech-word2vec-ner
+05/24/2020 06:01:32 PM,764 gensim.models.utils_any2vec INFO loading projection weights from /Users/navreetkaur/MTP/finetune-word2vec/w2v-models/GoogleNews-vectors-negative300.bin
+05/24/2020 06:05:05 PM,311 gensim.models.utils_any2vec INFO loaded (3000000, 300) matrix from /Users/navreetkaur/MTP/finetune-word2vec/w2v-models/GoogleNews-vectors-negative300.bin
